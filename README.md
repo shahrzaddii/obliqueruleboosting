@@ -17,5 +17,6 @@ For a detailed description of the method, theoretical development, and empirical
 
 **Sparse Oblique Rule Boosting for Simpler Additive Rule Ensembles**
 [arXiv preprint](https://arxiv.org/abs/2609.06426)
+[Journal](https://link.springer.com/article/10.1007/s10618-026-01241-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20261003&utm_content=10.1007/s10618-026-01241-8)
 
 The link will be updated to the final published version once available.
